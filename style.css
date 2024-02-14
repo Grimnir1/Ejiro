@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Satisfy&display=swap');
 body {
+  overflow: hidden;
   height: 100vh;
   display: flex;
   align-items: center;
